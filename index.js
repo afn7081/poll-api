@@ -10,7 +10,7 @@ const routes=require('./routes')
 
 const app=express()
 const obj={
-    hello:'world'
+    hello:'worl d'
 }
 
 app.use(bodyParser.urlencoded({extended:true}))
